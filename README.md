@@ -35,8 +35,8 @@ It demonstrates basic PHP–MySQL integration, database handling, and clean UI p
 ## 📂 Project Structure
 
 ```
-student-records/
-│── index.php
+students-records/
+│── StudentsInfo.php
 │── students.sql
 │── README.md
 ```
